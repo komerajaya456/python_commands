@@ -253,8 +253,15 @@ def sou(y):
 		flat'''
 		print(y+'hi')
 sou('steve')
+
+
+print('hi'.center(20,'['))  #add centers at end
+
+lis3=[0,0,0]*7
+print(lis3)				#print muliplt ist list
 		
-			
+apo=[1,3,3,1]
+print(sum(apo)) 			#prints sum of list		
 				
 					
 						
